@@ -132,4 +132,4 @@ keras
 
 ---
 
-*These projects demonstrate the evolution from traditional machine learning to deep learning approaches in NLP, providing comprehensive learning opportunities for different skill
+*These projects demonstrate the evolution from traditional machine learning to deep learning approaches in NLP, providing comprehensive learning opportunities for different skill levels*
